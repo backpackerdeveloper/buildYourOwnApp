@@ -10,6 +10,12 @@
 
 Unlike any other app, **IPL Bubble** offers a floating score bubble that overlays other apps, allowing users to view live IPL scores while chatting, gaming, or scrolling reels. This feature ensures you never miss an update without switching apps!
 
+## 📲 Try the App
+
+🔗 **[Download APK](https://drive.google.com/file/d/1qEUQ0p5__wNNWZEkpK7ph1PUmqaaRoX1/view)**  
+
+📺 **[Watch Demo](https://drive.google.com/file/d/1pQNta9rqS9c1Zdt6-TBlzspuW-HD8MHU/view)** 
+
 ## 🛠 Tech Stack
 
 - **Language**: Kotlin  
@@ -44,12 +50,6 @@ Unlike any other app, **IPL Bubble** offers a floating score bubble that overlay
 - ✅ Implement a **wallet system** for fantasy sports.  
 - ✅ Add **payment gateway** for wallet recharge.  
 - ✅ Integrate **ads** for monetization.  
-
-## 📲 Try the App
-
-🔗 **[Download APK](https://drive.google.com/file/d/1qEUQ0p5__wNNWZEkpK7ph1PUmqaaRoX1/view)**  
-
-📺 **[Watch Demo](#)** <!-- Replace with actual video link -->  
 
 ## 🔗 Repository
 
