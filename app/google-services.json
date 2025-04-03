@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17668677240",
+    "project_id": "ipl-bubble-db78d",
+    "storage_bucket": "ipl-bubble-db78d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17668677240:android:b7398b35d11ab9d3ca578d",
+        "android_client_info": {
+          "package_name": "com.shubhamtripz.iplbubble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5z71c8rz3MR563rLyPNkEkvwAU3kV-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
