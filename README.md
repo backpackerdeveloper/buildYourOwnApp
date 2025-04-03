@@ -14,7 +14,7 @@ Unlike any other app, **IPL Bubble** offers a floating score bubble that overlay
 
 🔗 **[Download APK](https://drive.google.com/file/d/1qEUQ0p5__wNNWZEkpK7ph1PUmqaaRoX1/view)**  
 
-📺 **[Watch Demo](https://drive.google.com/file/d/1pQNta9rqS9c1Zdt6-TBlzspuW-HD8MHU/view)** 
+📺 **[Watch Demo Video](https://drive.google.com/file/d/1pQNta9rqS9c1Zdt6-TBlzspuW-HD8MHU/view)** 
 
 ## 🛠 Tech Stack
 
