@@ -1,6 +1,6 @@
 # IPL Bubble
 
-![IPL Bubble]([https://your-image-url.com/image.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX26zzGuU_-6peeVAxaGK2GibthwvBEAIAM0WlqKxO0If-SNgE9Q59ATv7pqRz8GylOYk96t88OgUTF2Kr8vZ0nRy4Zw8o6xv36Ohyi0iJvvOyAW8TSdZgBwWT_zNx8LKzhgwc0GwEWFu9pcjLE70UBStc5zxcXAbA6F1z03N8d3Kcmjd7fp-ItMfiL62J/s420/iplflot%20bubble(1).jpg)) <!-- Replace with actual image URL -->
+![IPL Bubble](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX26zzGuU_-6peeVAxaGK2GibthwvBEAIAM0WlqKxO0If-SNgE9Q59ATv7pqRz8GylOYk96t88OgUTF2Kr8vZ0nRy4Zw8o6xv36Ohyi0iJvvOyAW8TSdZgBwWT_zNx8LKzhgwc0GwEWFu9pcjLE70UBStc5zxcXAbA6F1z03N8d3Kcmjd7fp-ItMfiL62J/s420/iplflot%20bubble(1).jpg)
 
 ## 📌 About the App
 
